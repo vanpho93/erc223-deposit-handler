@@ -1,0 +1,13 @@
+{
+  "name": "erc223-deposit-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vanpho93/erc223-deposit-handler.git",
+  "author": "Pho Nguyen <pho.nguyenvan@nashtechglobal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.6"
+  }
+}
